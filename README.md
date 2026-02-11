@@ -2,6 +2,9 @@
 
 A full-stack note-taking application built with the MERN stack. Create, edit, and manage notes with a clean interface and built-in API rate limiting.
 
+**Live Demo:** [note-buddy-d2nb.onrender.com/](https://note-buddy-d2nb.onrender.com/)
+
+
 ---
 
 ## 🚀 Tech Stack
